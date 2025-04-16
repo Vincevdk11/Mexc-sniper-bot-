@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": {
+      "MEXC_API_KEY": "mx0vglZclq4XJxpJfD",
+    }
+  },
+  "start": "python3 mexc_sniper_bot.py"
+}
